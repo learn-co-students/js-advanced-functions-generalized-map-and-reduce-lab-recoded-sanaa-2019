@@ -7,7 +7,7 @@ function mapToNegativize(src) {
   return r
 }
 
-function map-like(src) {
+function map(src) {
   let r = []
   for (let i = 0; i < src.length; i++ ) {
     r.push(src[i]) // Unique work
