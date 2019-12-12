@@ -7,7 +7,7 @@ function mapToNegativize(src) {
   return r
 }
 
-map(arr, function(a){ return -1 * a } )
+function map(arr, function(a){ return -1 * a } )
 
 function mapToDouble(src) {
   let r = []
