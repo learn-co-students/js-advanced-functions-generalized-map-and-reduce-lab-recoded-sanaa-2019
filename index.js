@@ -12,7 +12,7 @@ let map= function(array,func){
 }
 
 let reduce=function(array,func,start){
-  if(start==!null){
+  if(start!=null){
  return array.reduce(func,start)
   }else{
     return array.reduce(func)
