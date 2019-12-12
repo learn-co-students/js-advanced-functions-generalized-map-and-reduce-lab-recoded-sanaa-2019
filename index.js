@@ -12,7 +12,7 @@ let map= function(array,func){
 }
 
 let reduce=function(array,func){
-  
+ return array.reduce(func)
 }
 function mapToDouble(src) {
   let r = []
