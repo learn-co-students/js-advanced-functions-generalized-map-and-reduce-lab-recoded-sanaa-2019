@@ -11,7 +11,7 @@ let map= function(array,func){
   return array.map(func)
 }
 
-
+let reduce=function()
 function mapToDouble(src) {
   let r = []
   for (let i = 0; i < src.length; i++ ) {
