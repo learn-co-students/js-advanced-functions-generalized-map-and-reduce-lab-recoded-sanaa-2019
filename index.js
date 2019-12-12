@@ -8,7 +8,7 @@ function mapToNegativize(src) {
 }
 
 let map= function map(array,function){
-  array.map(f)
+  return array.map(function)
 }
   return 1 * a } 
 
