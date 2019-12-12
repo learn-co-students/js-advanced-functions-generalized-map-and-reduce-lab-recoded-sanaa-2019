@@ -11,7 +11,7 @@ let map= function(array,func){
   return array.map(func)
 }
 
-let reduce=function(array,func){
+let reduce=function(array,func,start){
   
  return array.reduce(func,0)
 }
