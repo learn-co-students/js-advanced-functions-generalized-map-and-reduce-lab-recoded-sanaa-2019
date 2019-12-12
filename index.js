@@ -7,7 +7,9 @@ function mapToNegativize(src) {
   return r
 }
 
-map([1, 2, 3, -9], function(a){ return -1 * a }
+function map(arr, function(a){
+  return -1 * a
+  }
 
 function mapToDouble(src) {
   let r = []
