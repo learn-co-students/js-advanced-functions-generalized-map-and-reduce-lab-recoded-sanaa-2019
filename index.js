@@ -10,7 +10,7 @@ function mapToNegativize(src) {
 let map= function(array,func){
   return array.map(func)
 }
-  return 1 * a } 
+
 
 function mapToDouble(src) {
   let r = []
